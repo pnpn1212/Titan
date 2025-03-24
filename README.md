@@ -79,12 +79,3 @@ docker run --rm -it -v ~/.titan3:/root/.titanedge nezha123/titan-edge:latest bin
 docker run --rm -it -v ~/.titan4:/root/.titanedge nezha123/titan-edge:latest bind --hash=xxx https://api-test1.container1.titannet.io/api/v2/device/binding
 docker run --rm -it -v ~/.titan5:/root/.titanedge nezha123/titan-edge:latest bind --hash=xxx https://api-test1.container1.titannet.io/api/v2/device/binding
 ```
-
-## Thank to support VNBnode.
-### Visit us at:
-
-<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/> <a href="https://t.me/VNBnodegroup" target="_blank">VNBnodegroup</a>
-
-<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/> <a href="https://t.me/Vnbnode" target="_blank">VNBnode News</a>
-
-<img src="https://github.com/vnbnode/binaries/blob/main/Logo/VNBnode.jpg" width="30"/> <a href="https://VNBnode.com" target="_blank">VNBnode.com</a>
